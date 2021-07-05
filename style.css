@@ -3,6 +3,7 @@ body{
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    background-color: ivory;
 }
 .header{
     background-image: url("./images/Group\ 17.png");
