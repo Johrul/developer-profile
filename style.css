@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    background-image: url("./images/Group\ 17.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 90vh;
+ 
+    
+}
+.flex{
+    display: flex;
+}
+.half{
+    width: 42%;
+    padding-left: 8%;
+}
+.half img{
+    width: 90%;
+    
+}
+.ptop{
+    padding-top: 10rem;
+}
+h2{
+    color: #333;
+    font-size: 3rem;
+    /* line-height: 1rem; */
+}
+h3{
+    font-size: 2rem;
+    color: #333;
+    line-height: 0;
+}
+.myname{
+    color: #FC0C2D;
+}
+.fullstack{
+    color: #C5C5C5;
+    font-size: 2rem;
+}
+
+.jbtn{
+    background-image: linear-gradient(red,orange);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 900;
+    border-radius: 5px;
+    border: none;
+    
+}
+.jbn:hover{
+    background-image: linear-gradient(red, crimson);
+}
