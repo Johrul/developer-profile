@@ -69,14 +69,22 @@ h3{
     width: 90%;
     padding: 10px 20px;
     box-shadow: 0 4px 8px 5px rgba(0,0,0, .5) ;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, gold, red);
+    border-image-slice: 1;
+
 }
 .cardr{
     width: 90%;
     padding: 10px 20px;
     box-shadow: 0 4px 8px 5px rgba(0,0,0, .5) ;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, red, gold);
+    border-image-slice: 1;
 }
 h5{
     color: #FC0C2D;
+    font-size: 18px;
 }
 footer{
     text-align: center;
