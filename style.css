@@ -57,14 +57,27 @@ h3{
     background-image: linear-gradient(red, crimson);
 }
 
+.dream{
+    padding: 150px 0 0 0;
+}
+
+.experience{
+    padding: 150px 0;
+}
 
 .cardl{
-
+    width: 90%;
+    padding: 10px 20px;
+    box-shadow: 0 4px 8px 5px rgba(0,0,0, .5) ;
 }
 .cardr{
-
+    width: 90%;
+    padding: 10px 20px;
+    box-shadow: 0 4px 8px 5px rgba(0,0,0, .5) ;
 }
-
+h5{
+    color: #FC0C2D;
+}
 footer{
     text-align: center;
     background-color: #333;
