@@ -59,11 +59,12 @@ h3{
     border-radius: 5px;
     border: none;
     text-decoration: none; 
+    transition: 0.3s linear;
 }
-.jbn:hover{
-    background-image: linear-gradient(red, crimson);
-}
+.jbtn:hover{
 
+    color: gold;
+}
 .dream{
     padding: 100px 0 100px 0;
     background-image: url("./images/dream-bg.png");
